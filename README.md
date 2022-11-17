@@ -20,9 +20,9 @@ Not applicable at the moment, will be released at a later date.
 
 ## Contributors
 
-Name: Keenan Heller
-Email: keenanaheller@gmail.com
-LinkedIn: https://www.linkedin.com/in/keenanheller/
+Name: Keenan Heller<br />
+Email: keenanaheller@gmail.com<br />
+LinkedIn: https://www.linkedin.com/in/keenanheller/<br />
 ---
 
 ## License
